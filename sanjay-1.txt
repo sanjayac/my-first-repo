@@ -12,4 +12,10 @@ asdf
 adfgadf
 
 
+<<<<<<< HEAD
 I have now made some changes to this file and now want to push to remote repo.
+=======
+
+
+I now added some more contents to this file. 
+>>>>>>> 004af94a802d40e82499aa42d2291d79902c2f2c
